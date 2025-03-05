@@ -1,4 +1,4 @@
-<h1 align="center">🌟 I am a passionate Software Developer from India 🚀</h1>
+<h1 align="center">🌟 I am a passionate Software Developer and AI/ML Enthusiast from India 🚀</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin">
@@ -7,7 +7,21 @@
   <a href="https://github.com/Harishchandra-Gandhare">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href
+  <a href="https://twitter.com/your-twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://instagram.com/your-instagram">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:harishchandragandhare@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://vsgif.com/gif/3557374" alt="Hello GIF">
+</p>
+
 
 
 
