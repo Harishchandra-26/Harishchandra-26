@@ -4,9 +4,9 @@
   <a href="https://linkedin.com/in/your-linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Harishchandra-Gandhare">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+<a href="https://github.com/Harishchandra-Gandhare">
+  <img src="https://img.shields.io/badge/GitHub-%23333.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
   <a href="https://twitter.com/your-twitter">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
@@ -18,9 +18,9 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2F5289d3687bf8bcd6d806b3655e11c7f4&psig=AOvVaw0VxR74rL2uPQYIux47hW8r&ust=1741284727188000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjIkLPF84sDFQAAAAAdAAAAABAQ" alt="Hello GIF">
-</p>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/82925a3d-dffe-4636-b7d7-2e1d74499cbb" alt="Profile Banner" width="600px">
+</div>
 
 
 
