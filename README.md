@@ -1,22 +1,23 @@
 <h1 align="center">🌟 I am a passionate Software Developer and AI/ML Enthusiast from India 🚀</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/harishchandra-gandhare-336143289/)">
+  <a href="https://www.linkedin.com/in/harishchandra-gandhare-336143289/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-<a href="https://github.com/Harishchandra-Gandhare">
-  <img src="https://img.shields.io/badge/GitHub-%23333.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-  <a href="https://twitter.com/(https://x.com/Harishchan123)">
+  <a href="https://github.com/Harishchandra-Gandhare">
+    <img src="https://img.shields.io/badge/GitHub-%23333.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://x.com/Harishchan123">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://instagram.com/(https://www.instagram.com/hari_gandhare_26/)">
+  <a href="https://www.instagram.com/hari_gandhare_26/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:harishchandragandhare@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/82925a3d-dffe-4636-b7d7-2e1d74499cbb" alt="Profile Banner" width="600px">
