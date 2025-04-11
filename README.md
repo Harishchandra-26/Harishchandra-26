@@ -42,6 +42,7 @@
 - **Tools & IDEs:** VSCode, IntelliJ, Google Colab, Jupyter Notebook  
 
 ## 🏆 Experience & Achievements:
+- **Hackathon:**Space Innovation Challenge Hackathon Winner @VNIT Nagpur
 - **Internship:** Campus Ambassador at Internshala  
 - **Projects:** Weather App, Sales Forecasting (Time Series), Bank Management System  
 - **Certifications:** ISRO Geocomputation & Geo Web Services  
