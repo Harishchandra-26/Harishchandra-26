@@ -46,7 +46,7 @@
 - **Internship:** Campus Ambassador at Internshala  
 - **Projects:** Weather App, Sales Forecasting (Time Series), Bank Management System  
 - **Certifications:** ISRO Geocomputation & Geo Web Services  
-- **Open Source:** Actively contributing on GitHub throun GSSoC and OSCI programs.  
+- **Open Source:** Actively contributing on GitHub through GSSoC and OSCI programs.  
 
 ## 💡 Fun Fact:
 > "I love coding and exploring the world of open source contributions! 🚀"
