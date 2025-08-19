@@ -18,14 +18,11 @@
   </a>
 </p>
 
-
-
 <div align="center">
   <img src="https://github.com/user-attachments/assets/82925a3d-dffe-4636-b7d7-2e1d74499cbb" alt="Profile Banner" width="600px">
 </div>
 
-
-
+---
 
 ## 😃 About Me:
 - 🔭 I’m currently working on **MERN STACK and DSA**
@@ -42,7 +39,7 @@
 - **Tools & IDEs:** VSCode, IntelliJ, Google Colab, Jupyter Notebook  
 
 ## 🏆 Experience & Achievements:
-- Hackathon:Space Innovation Challenge Hackathon Winner @VNIT Nagpur
+- Hackathon: Space Innovation Challenge Hackathon Winner @VNIT Nagpur
 - **Internship:** Campus Ambassador at Internshala  
 - **Projects:** Weather App, Sales Forecasting (Time Series), Bank Management System  
 - **Certifications:** ISRO Geocomputation & Geo Web Services  
@@ -51,4 +48,23 @@
 ## 💡 Fun Fact:
 > "I love coding and exploring the world of open source contributions! 🚀"
 
+---
 
+## 📊 GitHub Stats and Activities
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harishchandra-26&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harishchandra-26&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Harishchandra-26&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harishchandra-26&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Harishchandra-26&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
