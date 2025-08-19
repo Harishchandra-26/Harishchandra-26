@@ -61,10 +61,9 @@
   <img src="https://streak-stats.demolab.com?user=Harishchandra-26&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
+<!-- 🏆 GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harishchandra-26&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harishchandra-26&theme=onedark&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Harishchandra-26&theme=react-dark" alt="GitHub Contribution Graph" />
-</p>
+
